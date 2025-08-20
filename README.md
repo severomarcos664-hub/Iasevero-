@@ -25,3 +25,45 @@ A next-gen system designed to:
 ---
 
 ## 📂 Project Structure
+/IASEVERO_OMEGA
+│
+├── 📂 public_html/              # Raiz pública do site
+│   ├── index.html               # Landing page principal (impacto máximo)
+│   ├── health.html              # Verificação de status online
+│   ├── styles.css               # Design premium (dark mode + gradientes dinâmicos)
+│   ├── scripts.js               # Lógica do front-end e interações
+│   ├── config.js                # Chaves seguras e variáveis do projeto
+│   ├── .htaccess                # Segurança e redirecionamento HTTPS
+│   ├── README.md                # Documentação institucional (top dos tops)
+│   │
+│   ├── 📂 assets/               # Recursos estáticos
+│   │   ├── img/                 # Imagens, logos, banners
+│   │   ├── css/                 # Folhas de estilo adicionais
+│   │   ├── js/                  # Scripts avançados
+│   │   └── media/               # Vídeos, áudios institucionais
+│   │
+│   ├── 📂 ai/                   # Núcleo IA
+│   │   ├── ia-core.js           # Motor principal da IA Severo
+│   │   ├── ia-guardian.js       # Firewall cognitivo / segurança adaptativa
+│   │   ├── ia-deployer.js       # Automatizador de deploys (Hostinger, GitHub, Vercel)
+│   │   └── ia-monitor.js        # Monitoramento 24/7 com alertas
+│   │
+│   ├── 📂 docs/                 # Documentos oficiais
+│   │   ├── whitepaper.pdf
+│   │   ├── pitchdeck.pdf
+│   │   ├── compliance.pdf
+│   │   └── manifesto.txt
+│   │
+│   └── 📂 api/                  # Futuras integrações
+│       ├── connect.js           # Conexão com outros projetos
+│       ├── tokens.js            # Gestão de tokens (BinbaseX, USA.X etc.)
+│       └── payments.js          # Integração com carteiras digitais
+│
+├── 📂 backup/                   # Backups automáticos (criptografados)
+│   ├── ia-backup-2025-08-20.zip
+│   └── readme-backup.txt
+│
+└── 📂 dev/                      # Área de desenvolvimento
+    ├── tests/                   # Testes de sistema
+    ├── staging/                 # Versão de homologação
+    └── experimental/            # Funções experimentais
